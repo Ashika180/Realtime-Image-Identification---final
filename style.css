@@ -1,0 +1,71 @@
+.heading{
+    font-family: comic sans ms;
+    font-size: 25px;
+    width: 80%;
+    margin-top: 20px;
+    box-shadow: 5px 5px 18px grey;
+    height: 325px;
+}
+
+.div1{
+    background: white;
+    float: none;
+    padding: 10px;
+    border-radius: 20px;
+    color: purple;
+    box-shadow: 10px 10px 16px rgb(63, 63, 63);
+    padding-bottom: -200px;
+}
+
+.objects{
+    color: gold;
+    font-size: 20px;
+    font-family: fantasy;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+
+.note{
+    font-size: 25px !important;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif 
+}
+
+.copyright_footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    font-size: 22.5px;
+    color: grey;
+    font-family: comic sans ms;
+}
+
+.result_para_tag{
+    box-shadow: 5px 5px 18px rgb(37, 37, 37);
+    font-size: 14.5px;
+    float: left;
+    margin-left: 600px;
+}
+
+.result_para_tag1{
+    box-shadow: 5px 5px 18px rgb(37, 37, 37);
+    font-size: 14.5px;
+    float: right;
+    margin-right: 600px;
+}
+
+canvas{
+    margin-top: 175px;
+    box-shadow: 5px 5px 20px black;
+    border: groove 4px black;
+}
+
+i{
+    margin-top: 20px;
+    visibility: hidden;
+}
+
+.heading_div2:hover i{
+    visibility: visible;
+}
